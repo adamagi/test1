@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#cambio1
 import os
 import sys
 
